@@ -5,4 +5,4 @@ metadata:
   namespace: metallb-system
 spec:
   addresses:
-  - $lbrange
+  - 172.32.0.140-172.32.0.160
